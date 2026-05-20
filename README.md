@@ -200,12 +200,3 @@ The notebook includes multiple visual analyses such as:
 - Relative growth validation charts
 - Research impact charts
 
----
-
-## Project Structure
-
-```bash
-├── DataScienceProject_Defence_Dataset.ipynb
-├── Defence_Export_and_Production.csv
-├── README.md
-└── outputs/
